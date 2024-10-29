@@ -1,3 +1,2 @@
 *.o
-kernel
-kernel.elf
+kernel/kernel.elf
